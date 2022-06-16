@@ -1,0 +1,10 @@
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.fsprojResolveAssemblyReference.cache
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.XML
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\FSharp.Core.dll
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\FSharp.Core.xml
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
